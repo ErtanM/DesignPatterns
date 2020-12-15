@@ -1,0 +1,7 @@
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\obj\Debug\PrototypeDesign.csprojAssemblyReference.cache
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\obj\Debug\PrototypeDesign.csproj.CoreCompileInputs.cache
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\bin\Debug\PrototypeDesign.exe.config
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\bin\Debug\PrototypeDesign.exe
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\bin\Debug\PrototypeDesign.pdb
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\obj\Debug\PrototypeDesign.exe
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\PrototypeDesign\obj\Debug\PrototypeDesign.pdb
