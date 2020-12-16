@@ -1,0 +1,12 @@
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.exe
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.deps.json
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.json
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.runtimeconfig.dev.json
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\bin\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfoInputs.cache
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.AssemblyInfo.cs
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.dll
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.pdb
+C:\Users\Bjorn\Documents\ertanmutlu\DesignPatterns\AdapterPattern\obj\Debug\netcoreapp3.1\AdapterPattern.genruntimeconfig.cache
